@@ -15,4 +15,4 @@ API Call: https://api.flickr.com/services/rest/?method=flickr.photos.comments.ge
 
 Task #4: Search for a list of all the photos in your current latitude and longitude.
 
-API Call:
+API Call: https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=739b0fab4b412a82fd7994063237ef68&lat=40.739885&lon=-73.990082&radius=0.5&radius_units=km&format=json
