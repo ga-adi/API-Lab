@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+<places query="charlotte,NC" total="1">
+	<place place_id="KtHrHAVTUb1F.npO" woeid="2378426" latitude="35.222" longitude="-80.837" place_url="/United+States/North+Carolina/Charlotte" place_type="locality" place_type_id="7" timezone="America/New_York" woe_name="Charlotte">Charlotte, North Carolina, United States</place>
+</places>
+</rsp>
